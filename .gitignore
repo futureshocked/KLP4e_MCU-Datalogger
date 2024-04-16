@@ -1,0 +1,6 @@
+.DS_Store
+*.lck
+fp-inFo—cache
+*.kicad_prl
+MCU Datalogger—backups/*
+MCUDataloggerGerber/*
