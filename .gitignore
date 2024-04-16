@@ -2,5 +2,5 @@
 *.lck
 fp-inFo—cache
 *.kicad_prl
-MCU Datalogger—backups/*
+MCU Datalogger-backups/*
 MCUDataloggerGerber/*
