@@ -950,6 +950,28 @@
 			)
 		)
 	)
+	(rectangle
+		(start 77.47 52.705)
+		(end 128.905 106.68)
+		(stroke
+			(width 0)
+			(type dot)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 1cce436e-9b76-43af-b42f-7826bdc733f9)
+	)
+	(text "Connectors"
+		(exclude_from_sim no)
+		(at 82.296 51.435 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1abcfafc-7132-4392-8bbe-aa07f8b0b2fd")
+	)
 	(hierarchical_label "TX"
 		(shape output)
 		(at 115.57 67.31 0)
