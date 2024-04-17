@@ -2172,7 +2172,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1 uF"
 			(at 146.05 30.48 90)
 			(effects
 				(font
@@ -2241,7 +2241,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22 pF"
 			(at 147.32 71.1199 0)
 			(effects
 				(font
@@ -2277,6 +2277,14 @@
 				(hide yes)
 			)
 		)
+		(property "Purpose" ""
+			(at 143.51 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "390ae0dc-b330-4d0e-aa1e-d1a7e49dac8f")
 		)
@@ -2310,7 +2318,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10 ΚΩ"
 			(at 158.75 87.63 90)
 			(effects
 				(font
@@ -2379,7 +2387,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1 uF"
 			(at 115.57 44.4499 0)
 			(effects
 				(font
@@ -2537,7 +2545,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10 ΚΩ"
 			(at 101.6 44.4499 0)
 			(effects
 				(font
@@ -2607,7 +2615,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7 ΚΩ"
 			(at 104.14 120.6499 0)
 			(effects
 				(font
@@ -2677,7 +2685,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10 ΚΩ"
 			(at 91.44 44.4499 0)
 			(effects
 				(font
@@ -2817,7 +2825,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7 ΚΩ"
 			(at 115.57 120.6499 0)
 			(effects
 				(font
@@ -3110,7 +3118,7 @@
 				)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "32.768 KHz"
 			(at 30.48 54.61 0)
 			(effects
 				(font
@@ -3720,7 +3728,7 @@
 				)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "16 MHz"
 			(at 157.48 69.85 0)
 			(effects
 				(font
@@ -3789,7 +3797,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "100 nF"
 			(at 234.95 48.6409 0)
 			(effects
 				(font
@@ -3858,7 +3866,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330 Ω"
 			(at 139.7 48.26 90)
 			(effects
 				(font
@@ -3927,7 +3935,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330 Ω"
 			(at 223.52 74.9299 0)
 			(effects
 				(font
@@ -3997,7 +4005,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22 pF"
 			(at 147.32 81.2799 0)
 			(effects
 				(font
