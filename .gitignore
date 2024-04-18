@@ -3,4 +3,6 @@
 fp-inFo—cache
 *.kicad_prl
 MCU Datalogger-backups/*
-MCUDataloggerGerber/*
+2_layer_MCU_datalogger_gerbers/*
+4_layer_MCU_datalogger_gerbers/*
+*_Gerbers.zip
