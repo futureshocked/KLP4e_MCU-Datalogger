@@ -506,7 +506,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "MCU_datalogger_gerbers/",
+      "plot": "4_layer_MCU_datalogger_gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
