@@ -782,7 +782,7 @@
 			)
 		)
 		(property "Value" "Conn_01x09_Pin"
-			(at 0 22.65 270)
+			(at 0 22.65 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a77ad720-6fe7-4c84-9600-0260b387061c")
@@ -2688,7 +2688,7 @@
 			(pintype "power_in")
 			(uuid "24287e4d-4c97-4f29-8f93-dc3e9eec00bc")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3424,7 +3424,7 @@
 			(pintype "passive")
 			(uuid "193620d5-8b95-4d98-9c30-12697048b181")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_0603-2Pin_6.0x3.5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3738,7 +3738,7 @@
 			(pintype "passive")
 			(uuid "4464b900-10f0-494c-aed7-73a232cdd150")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_0603-2Pin_6.0x3.5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4825,7 +4825,7 @@
 			(pintype "power_in")
 			(uuid "f072ac65-191f-4577-9183-4d87c3889ec4")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6586,6 +6586,17 @@
 			(pintype "bidirectional")
 			(uuid "e642a8ab-fbd1-40bf-8deb-110bd614235d")
 		)
+		(model "${KICAD8_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-32_7x7mm_P0.8mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_2.1mm"
 		(layer "F.Cu")
@@ -7088,7 +7099,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 0 9.95 270)
+			(at 0 9.95 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "59987537-6d84-49d0-a93e-54dae8f7e249")
